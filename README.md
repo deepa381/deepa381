@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi, I'm Deepa 👋  
+🎓 3rd Year Computer Science Student at Kalasalingam University  
 
-<!--
-**deepa381/deepa381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 💻 Learning backend and web development  
+- 🌱 Working with Python and Django  
+- 📘 Learning JavaScript  
+- 🛠 Building projects to improve skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Reach me at: deepamanyam@gmail.com  
+
+---
+
+### Languages and Tools:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,MySQL,git,github,vscode" />
+</p>
+
+---
+
+### Projects:
+
+- **FoodSaver** – Food donation management system  
+  🔗 https://foodsaver-85bc.onrender.com  
+
+- **SkillLens Learner Hackathon Project** – Hackathon-based learning project  
+
+- **Local Store** – Simple e-commerce web application  
+
+- **GFG KARE** – Student community website  
+
+---
+
+Thanks for visiting my profile 🙂
