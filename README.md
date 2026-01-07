@@ -8,7 +8,7 @@
 - 📘 Learning JavaScript  
 - 🛠 Building projects to improve skills  
 
-- 📫 Reach me at: deepamanyam@gmail.com  
+- 📫 Reach me at: deepamanyam666@gmail.com  
 
 ---
 
