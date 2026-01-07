@@ -1,4 +1,4 @@
-## Hi, I'm Deepa 👋  
+**## Hi, I'm Deepa 👋  
 🎓 3rd Year Computer Science Student at Kalasalingam University  
 
 ---
@@ -15,7 +15,7 @@
 ### Languages and Tools:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,MySQL,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,django,html,css,MySQL,git,github,vscode" />
 </p>
 
 ---
@@ -34,3 +34,4 @@
 ---
 
 Thanks for visiting my profile 🙂
+**
