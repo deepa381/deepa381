@@ -5,7 +5,8 @@
 
 - 💻 Learning backend and web development  
 - 🌱 Working with Python and Django  
-- 📘 Learning JavaScript  
+- 📘 Learning JavaScript
+- ☕ Practicing Java and Data Structures & Algorithms (DSA)  
 - 🛠 Building projects to improve skills  
 
 - 📫 Reach me at: deepamanyam666@gmail.com  
